@@ -28,7 +28,18 @@
 	    border-radius: 4px;
 	}
         
-	#body {
+	body {
 		background-color: black; /* Black background */
 		color: white; /* White text */
+	    font-family: 'Times New Roman', serif; /* Times New Roman for body text */
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Brush Script MT', cursive; /* Cursive font */
+		color: white; /* Ensure header text is white */
+	}
+
+	.large-text {
+		font-family: 'Brush Script MT', cursive; /* Cursive font */
+		font-size: 1.5em; /* Adjust size as needed */
 	}
