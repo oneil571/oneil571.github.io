@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Riley Connor Wilde O'Neill
-
-Hello! I am a PhD student in Applied Mathematics at the University of Minnesota, specializing in AI research, machine learning, and computer vision. 
 
 ---
 
@@ -56,16 +53,8 @@ Jason Brown, **Riley C. W. O'Neill**, Jeff Calder, & Andrea Bertozzi. "Utilizing
 - **Tools:** PyTorch, Hugging Face, OpenCV, TensorFlow, Slurm, Linux
 
 
-test
-======
-now this font is small
-
-Publications
-======
-
-more text 
-
-and this text is medium
-------
-and this is small
-
+##**Other Interests**
+- Minnesota winter hardy cacti
+- Antiques
+- Gardening
+- Disco
