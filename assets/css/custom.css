@@ -16,7 +16,38 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 
-h1, h2, h3, h4, h5, h6,
-p, li, blockquote, table, td, th {
-  font-family: "Times New Roman", Times, serif;
+* {
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+
+/* Make navbar background black */
+.navbar {
+  background-color: black !important;
+}
+
+/* Make nav text white */
+.navbar a,
+.navbar-brand,
+.navbar-nav > li > a {
+  color: white !important;
+}
+
+/* Optional: Change nav link hover color */
+.navbar a:hover {
+  color: #66ccff !important; /* or any color you like */
+}
+
+
+.page__footer {
+  background-color: black !important;
+  color: white !important;
+}
+
+.page__footer a {
+  color: #66ccff !important;
+}
+
+.page__footer a:hover {
+  color: #99ddff !important;
 }
