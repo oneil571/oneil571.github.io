@@ -166,4 +166,28 @@ $global-transition          : all 0.2s ease-in-out;
 
 
 
+/* Apply Pinyon Script to all masthead elements */
+.masthead__menu-item,
+.masthead__menu-item a,
+.site-title,
+.masthead .masthead__menu-item--lg a {
+  font-family: 'Pinyon Script', cursive !important;
+  color: #ffffff !important;
+  font-size: 1.25em !important;
+  font-weight: normal !important;
+}
+
+/* Make header name prominent */
+.site-title {
+   color: #ffffff !important;
+   font-family: 'Pinyon Script', cursive !important;
+   font-size: 1.25em !important;
+ }
+
+ .masthead__inner-wrap {
+   background-color: #000000 !important;
+   font-family: 'Pinyon Script', cursive !important;
+ }
+
+
 
