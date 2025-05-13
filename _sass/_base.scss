@@ -313,3 +313,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+body, html {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+header, .masthead, .navbar {
+  background-color: #000000;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
