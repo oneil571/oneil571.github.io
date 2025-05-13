@@ -7,24 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-
----
-
 ## **About Me**
 - PhD Candidate & NSF Graduate Research Fellow in the University of Minnesota's Applied Math Program
 - Member of the [AMAAZE Consortium](amaaze.umn.edu)
 - Organizer of UMN SIAM's [SMAC Talks](https://www.instagram.com/umn_siam/)
+- Organizer of UMN SIAM's [SMAC Talks](https://www.instagram.com/umn_siam/)
 - GitHub Portfolio: [github.com/oneil571](https://github.com/oneil571)
----
+
 
 ## **Research Interests**
 - Machine learning (transformers, representation learning, generative models)
 - 3D computer vision (object recognition, broken object reassembly)
 - Optimization theory and applications
----
 
 ## **Publications**
-
 Wonjun Lee,  **Riley C. W. O’Neill**, Dongmian Zou, Jeff Calder, & Gilad Lerman. "Geometry-Preserving Encoder/Decoder in Latent Generative Models." Submitted manuscript, 2025.
 
 **Riley C. W. O’Neill**,  Katrina Yezzi-Woodley, Jeff Calder, & Peter J. Olver. "En masse scanning and automated surfacing of small objects using Micro-CT." arXiv preprint arXiv:2410.07385 (2024), [https://arxiv.org/abs/2410.07385](https://arxiv.org/abs/2410.07385).
