@@ -22,10 +22,12 @@ a,
 .greedy-nav .visible-links a:before,
 .sidebar a {
   color: #ffffff !important;
+  background-color: #000000 !important;
 }
 /* White text for headings */
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff !important;
+  background-color: #000000 !important;
 }
 /* Make header name prominent */
 .site-title {
@@ -103,7 +105,7 @@ html, body {
 }
 /* Fix publication list display */
 .list__item {
-  border-bottom: 1px solid #333333 !important;
+  border-bottom: 1px solid #000000 !important;
   padding-bottom: 1em !important;
 }
 .archive__item-title a {
