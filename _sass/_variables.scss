@@ -103,10 +103,10 @@ $href-color                : #00eaff;
 
 /* links $info-color */
 $link-color                 : #00ddff;
+$masthead-link-color-hover  : #00ddff;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : #ffffff;
-$masthead-link-color-hover  : $link-color;
 $masthead-background-color  : #000000;
 
 /*
