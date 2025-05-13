@@ -1,0 +1,111 @@
+/* Custom styles to override theme defaults */
+/* Black background with white text */
+body {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+/* Set main container backgrounds to black */
+.page__content,
+.page__footer,
+.page__header,
+.masthead,
+.greedy-nav,
+.sidebar {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+/* White text for all links and navigation */
+a, 
+.page__content a,
+.page__footer a,
+.greedy-nav a,
+.greedy-nav .visible-links a:before,
+.sidebar a {
+  color: #ffffff !important;
+}
+/* White text for headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff !important;
+}
+/* Make header name prominent */
+.site-title {
+  color: #ffffff !important;
+  font-family: 'Pinyon Script', cursive;
+  font-size: 1.5em;
+}
+/* Adjust link hover states */
+a:hover,
+.page__content a:hover,
+.page__footer a:hover,
+.greedy-nav a:hover,
+.sidebar a:hover {
+  color: #cccccc !important;
+  text-decoration: underline;
+}
+/* Remove annoying white bars that might appear */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+/* Ensure containers don't create white spaces */
+.page__hero,
+.page__hero--overlay,
+.page__hero-image,
+.page__hero-caption {
+  background-color: #000000 !important;
+}
+/* Fix any white backgrounds in archive view */
+.archive__item-teaser,
+.archive__item-excerpt,
+.list__item,
+.archive {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+/* Ensure white text in buttons */
+.btn,
+.btn--primary {
+  color: #ffffff !important;
+}
+/* Fix masthead for white text */
+.masthead__inner-wrap {
+  background-color: #000000 !important;
+}
+.greedy-nav__toggle {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+/* Fix author sidebar */
+.author__urls {
+  background-color: #000000 !important;
+  color: #ffffff !important;
+}
+.author__bio {
+  color: #ffffff !important;
+}
+/* Additional publication styles */
+.publication-title,
+.archive__item-title {
+  font-family: 'Pinyon Script', cursive;
+  color: #ffffff !important;
+}
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  font-family: 'Pinyon Script', cursive;
+  color: #ffffff !important;
+}
+/* Keep Times New Roman for paragraph text */
+.page__content p {
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff !important;
+}
+/* Fix publication list display */
+.list__item {
+  border-bottom: 1px solid #333333 !important;
+  padding-bottom: 1em !important;
+}
+.archive__item-title a {
+  text-decoration: none !important;
+}
