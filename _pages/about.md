@@ -18,7 +18,6 @@ redirect_from:
 ---
 
 ## **Research Interests**
-
 - Machine Learning (Transformers, Representation Learning, Generative Models)
 - Computer Vision (3D Surface Reconstruction, Image Segmentation, 3D Object Recognition)
 - Optimization Theory and Applications
