@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## **Publications**
 
 Wonjun Lee,  **Riley C. W. O’Neill**, Dongmian Zou, Jeff Calder, & Gilad Lerman. "Geometry-Preserving Encoder/Decoder in Latent Generative Models." Submitted manuscript, 2025. [https://arxiv.org/abs/2501.09876](https://arxiv.org/abs/2501.09876)
 
