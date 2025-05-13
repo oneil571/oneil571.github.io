@@ -14,14 +14,16 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: /files/ONeill_CV_2025.pdf
+
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+
+    
+#  - title: "Guide"
+#    url: /markdown/
