@@ -63,10 +63,10 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #000000;
 $background-color           : #000000;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
+$code-background-color      : #ffffff;
+$code-background-color-dark : #000000;
 $text-color                 : #ffffff;
-$border-color               : #ffffff;
+$border-color               : #000000;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -95,11 +95,11 @@ $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
 $twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
+$vimeo-color                : #00eaff;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-
+$href-color                : #00eaff;
 
 /* links */
 $link-color                 : $info-color;
