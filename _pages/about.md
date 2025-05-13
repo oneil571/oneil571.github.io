@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Riley C. W. O'Neill"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,20 +11,17 @@ redirect_from:
 ---
 
 ## **About Me**
-
-- **Email:** [oneil571@umn.edu](mailto:oneil571@umn.edu)  
-- **LinkedIn:** [https://www.linkedin.com/in/riley-o-neill-162b87185/](https://www.linkedin.com/in/riley-o-neill-162b87185/)  
+- PhD Candidate & NSF Graduate Research Fellow in the University of Minnesota's Applied Math Program
+- Member of the [AMAAZE Consortium](amaaze.umn.edu)
+- Organizer of UMN SIAM's [SMAC Talks](https://www.instagram.com/umn_siam/)
 - **GitHub Portfolio:** [github.com/oneil571](https://github.com/oneil571)
-- The AMAAZE Consortium [amaaze.umn.edu](amaaze.umn.edu)
-  
 ---
 
 ## **Research Interests**
 
-- Machine Learning (Transformers, Graph Neural Networks, Generative Models)
-- Computer Vision (3D Surface Reconstruction, Image Segmentation, Object Recognition)
+- Machine Learning (Transformers, Representation Learning, Generative Models)
+- Computer Vision (3D Surface Reconstruction, Image Segmentation, 3D Object Recognition)
 - Optimization Theory and Applications
-
 ---
 
 ## **Publications**
