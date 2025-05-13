@@ -16,8 +16,8 @@ redirect_from:
 
 
 ## **Research Interests**
-- Machine learning (transformers, representation learning, generative models)
-- 3D computer vision (object recognition, broken object reassembly)
+- Machine learning (transformers, representation learning, generative modeling, graph learning)
+- Computer vision (3D object recognition, 3D broken object reassembly, image segmentation)
 - Optimization theory and applications
 
 ## **Publications**
@@ -49,5 +49,3 @@ Jason Brown, **Riley C. W. O'Neill**, Jeff Calder, & Andrea Bertozzi. "Utilizing
 - Antiques
 - Gardening
 - Disco
-
-last update: 2:42
