@@ -47,13 +47,12 @@ Jason Brown, **Riley C. W. O'Neill**, Jeff Calder, & Andrea Bertozzi. "Utilizing
 ---
 
 ## **Skills**
-
 - **Languages:** Python, MATLAB, C/C++, SQL, LaTeX  
 - **Specializations:** Deep Learning, Computer Vision, Graph Neural Networks  
 - **Tools:** PyTorch, Hugging Face, OpenCV, TensorFlow, Slurm, Linux
 
 
-##**Other Interests**
+## **Other Interests**
 - Minnesota winter hardy cacti
 - Antiques
 - Gardening
