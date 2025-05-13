@@ -14,7 +14,7 @@ redirect_from:
 - PhD Candidate & NSF Graduate Research Fellow in the University of Minnesota's Applied Math Program
 - Member of the [AMAAZE Consortium](amaaze.umn.edu)
 - Organizer of UMN SIAM's [SMAC Talks](https://www.instagram.com/umn_siam/)
-- **GitHub Portfolio:** [github.com/oneil571](https://github.com/oneil571)
+- GitHub Portfolio: [github.com/oneil571](https://github.com/oneil571)
 ---
 
 ## **Research Interests**
@@ -55,4 +55,4 @@ Jason Brown, **Riley C. W. O'Neill**, Jeff Calder, & Andrea Bertozzi. "Utilizing
 - Gardening
 - Disco
 
-last update: 1:36
+last update: 1:40
